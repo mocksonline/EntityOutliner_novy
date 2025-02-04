@@ -1,5 +1,5 @@
 # Entity Outliner
-Entity Outliner is a clientside mod that allows you to select entity types to outline, making them visible through obstructions at any distance.
+Entity Outliner is a clientside mod that allows you to select entity types to outline, making them visible through obstructions at any distance. Now support Minecraft 1.21.4 with fabric.
 
 Forked From https://github.com/adamviola/EntityOutliner (Sorry, I'm bad at using github)
 
