@@ -1,6 +1,8 @@
 # Entity Outliner
 Entity Outliner is a clientside mod that allows you to select entity types to outline, making them visible through obstructions at any distance.
 
+Forked From https://github.com/adamviola/EntityOutliner(Sorry, I'm bad at using github)
+
 ## Why Use It?
 This mod will help with:
 <details>
